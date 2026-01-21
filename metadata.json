@@ -1,0 +1,8 @@
+{
+  "name": "Google AI Studio Mobile - עברית",
+  "description": "גרסה ניידת של Google AI Studio, הכוללת צ'אט בזמן אמת, ניהול היסטוריה ויכולות AI מתקדמות בעברית.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
